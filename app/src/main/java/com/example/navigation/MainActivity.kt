@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
     //Cuentas validas:
     //jaime@gmail.com, patito123
     //alvaro@gmail.com, alvaro
+
     fun login(view: View){
 
         val email = emailInput.text.toString()
